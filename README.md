@@ -1,4 +1,4 @@
-# clear-tech-doc
+# simplified-tech-doc
 
 A Claude skill that rewrites existing documentation — or drafts new documentation —
 following the idea behind [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/).
@@ -38,10 +38,10 @@ Ambiguity in a source document is flagged rather than guessed at.
 ## Installation
 
 **Claude Code / agent skills:** clone this repository into your skills directory so that
-`SKILL.md` sits inside a folder named `clear-tech-doc`.
+`SKILL.md` sits inside a folder named `simplified-tech-doc`.
 
 ```
-git clone https://github.com/USERNAME/clear-tech-doc-skill.git clear-tech-doc
+git clone https://github.com/birchamp/simplified-tech-doc-skill.git simplified-tech-doc
 ```
 
 **Any other assistant:** copy the body of `SKILL.md` (everything below the YAML

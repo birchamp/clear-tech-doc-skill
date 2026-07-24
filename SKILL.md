@@ -1,9 +1,9 @@
 ---
-name: clear-tech-doc
+name: simplified-tech-doc
 description: Rewrites existing documentation and drafts new documentation in ASD-STE100 Simplified Technical English (Issue 9). Enforces the approved ~900-word vocabulary, short single-instruction sentences, simple tenses, active voice, and consistent terminology, while keeping every technical fact, value, command, and part name exactly. Use this skill whenever the user wants to convert or write procedures, manuals, API references, README files, install guides, or release notes — and also when they ask to "simplify," "clean up," "make clearer," or "make translatable" any technical writing, even if they never mention STE by name.
 ---
 
-# clear-tech-doc
+# simplified-tech-doc
 
 ## Core Instruction (use as system prompt or skill body)
 
